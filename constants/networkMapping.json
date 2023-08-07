@@ -1,0 +1,17 @@
+{
+    "5": {
+        "NFTMarketplace": [
+            "0x7C1d0fdA585F1bdbBeaa0D607Ec0D10883B4DD84"
+        ]
+    },
+    "31337": {
+        "NFTMarketplace": [
+            "0x5FbDB2315678afecb367f032d93F642f64180aa3"
+        ]
+    },
+    "11155111": {
+        "NFTMarketplace": [
+            "0x1C8BDAbE51453D46c43b1456dE56Cfe20523E521"
+        ]
+    }
+}

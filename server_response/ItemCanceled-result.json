@@ -1,0 +1,38 @@
+{
+    "success": true,
+    "result": {
+        "functionName": "watchContractEvent",
+        "params": {
+            "abi": {
+                "anonymous": false,
+                "inputs": [
+                    {
+                        "indexed": true,
+                        "internalType": "address",
+                        "name": "seller",
+                        "type": "address"
+                    },
+                    {
+                        "indexed": true,
+                        "internalType": "address",
+                        "name": "nftAddress",
+                        "type": "address"
+                    },
+                    {
+                        "indexed": true,
+                        "internalType": "uint256",
+                        "name": "tokenId",
+                        "type": "uint256"
+                    }
+                ],
+                "name": "ItemCanceled",
+                "type": "event"
+            },
+            "address": "0x5FbDB2315678afecb367f032d93F642f64180aa3",
+            "chainId": "1337",
+            "sync_historical": true,
+            "tableName": "ItemCanceled",
+            "topic": "ItemCanceled(address,address,uint256)"
+        }
+    }
+}
